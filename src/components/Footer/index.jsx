@@ -1,7 +1,7 @@
 import './index.scss';
 const Footer = () => {
     return (
-        <div>
+        <div className='footerWrap'>
             Footer
         </div>
     )

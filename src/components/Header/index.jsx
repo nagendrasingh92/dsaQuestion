@@ -1,7 +1,7 @@
 import './index.scss';
 const Header = () => {
     return (
-        <div>
+        <div className='headerWrap'>
             Header
         </div>
     )
